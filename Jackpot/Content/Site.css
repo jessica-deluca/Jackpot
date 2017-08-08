@@ -1,0 +1,35 @@
+﻿.button {
+    font-size: 20px;
+    width: 30%;
+    margin-bottom: 20px;
+    color: #e87e04;
+    margin-top: 100px;
+}
+
+.circle {
+    border-style: solid;
+    border-width: thin;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+    font-size: 30px;
+    padding: 15px;
+    background-color: #ecf0f1;
+    color: #e87e04;
+    text-align: center;
+}
+
+.specialCircle {
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+    font-size: 30px;
+    padding: 15px;
+    background-color: #e87e04;
+    color: #ecf0f1;
+    text-align: center;
+}
+
+.numbers {
+    text-align: center;
+}
